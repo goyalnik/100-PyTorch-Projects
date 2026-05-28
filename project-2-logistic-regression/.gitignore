@@ -1,4 +1,6 @@
 venv/
+*.pth
 __pycache__/
 *.pyc
-model/*.pth
+.env
+model/
