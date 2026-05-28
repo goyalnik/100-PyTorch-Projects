@@ -236,6 +236,9 @@ python predict.py
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-goyalnik-181717?style=for-the-badge&logo=github)](https://github.com/goyalnik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Goyal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-goyal-30aa50124/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-nikhilkgoyal-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/nikhilkgoyal)
+[![Codeforces](https://img.shields.io/badge/Codeforces-AlgoNinjaNK-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/AlgoNinjaNK)
 
 </div>
 
