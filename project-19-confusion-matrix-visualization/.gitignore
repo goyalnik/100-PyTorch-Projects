@@ -1,0 +1,6 @@
+venv/
+*.pth
+__pycache__/
+*.pyc
+data/
+confusion_matrix.png
