@@ -1,4 +1,4 @@
-# Project 21 - LeNet Implementation
+# Project 22 - AlexNet from Scratch
 
 ## 👨‍💻 Author
 **Nikhil Goyal**
@@ -6,14 +6,13 @@
 - LinkedIn: [Nikhil Goyal](https://www.linkedin.com/in/nikhil-goyal-30aa50124/)
 
 ## 📌 Description
-Implementation of classic LeNet-5 CNN architecture for MNIST digit classification.
+AlexNet CNN implementation trained on CIFAR-10 dataset.
 
 ## 🎯 Architecture
+5 Conv layers + 3 FC layers with Dropout regularization.
 
-Input(1x28x28)
-→ Conv1(6, 5x5) → Tanh → AvgPool
-→ Conv2(16, 5x5) → Tanh → AvgPool
-→ FC(120) → FC(84) → Output(10)
+## ⚠️ Note
+Using 64x64 input instead of 224x224 for CPU compatibility.
 
 ## 🛠️ Tech Stack
 - Python 3.x
@@ -26,5 +25,5 @@ python train.py
 python predict.py
 
 ## 📊 Expected Output
-Epoch 5, Loss: 0.0234
-Test Accuracy: 98.45%
+Epoch 3, Loss: 1.2341
+Test Accuracy: 60.23%
